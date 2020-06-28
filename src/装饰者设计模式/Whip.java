@@ -1,4 +1,4 @@
-package 观察者设计模式;
+package 装饰者设计模式;
 
 public class Whip extends CondimentDecoator{
 	
